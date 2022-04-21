@@ -1,0 +1,64 @@
+{
+    "cities" : {
+        "0":{
+            "id": 0,
+            "name": "Нур-Султан",
+            "overall": 0,
+            "fact": 0,
+            "child": {}
+        },
+        "1":{
+            "id": 1,
+            "name": "Алматы",
+            "overall": 0,
+            "fact": 0,
+            "child": {
+                "11":{
+                    "id": 11,
+                    "name": "Центр 1",
+                    "overall": 0,
+                    "fact": 0,
+                    "child": {
+                        "111":{
+                            "id": 111,
+                            "name": "Управление 1",
+                            "overall": 0,
+                            "fact": 0,
+                            "child": {
+                                "1111":{
+                                    "id": 1111,
+                                    "name": "Отдел 1",
+                                    "overall": 0,
+                                    "fact": 60,
+                                    "child": {}
+                                },
+                               "1112":{
+                                    "id": 1112,
+                                    "name": "Отдел 2",
+                                    "overall": 0,
+                                    "fact": 60,
+                                    "child": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2":{
+            "id": 2,
+            "name": "Актау",
+            "overall": 0,
+            "fact": 0,
+            "child": {
+                "21":{
+                    "id": 21,
+                    "name": "Центр 2",
+                    "overall": 0,
+                    "fact": 0,
+                    "child": {}
+                }
+            }
+        }
+    }
+}

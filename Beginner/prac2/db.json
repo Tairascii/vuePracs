@@ -1,0 +1,64 @@
+{
+  "events": [
+    {
+      "id": 123,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "Find your new feline friend at this event.",
+      "location": "Meow Town",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 456,
+      "category": "food",
+      "title": "Community Gardening",
+      "description": "Join us as we tend to the community edible plants.",
+      "location": "Flora City",
+      "date": "March 14, 2022",
+      "time": "10:00",
+      "organizer": "Fern Pollin"
+    },
+    {
+      "id": 789,
+      "category": "sustainability",
+      "title": "Beach Cleanup",
+      "description": "Help pick up trash along the shore.",
+      "location": "Playa Del Carmen",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "organizer": "Carey Wales"
+    },
+    {
+      "id": "eab67c8e-f416-4b89-a05c-1b83b25524d4",
+      "category": "nature",
+      "title": "Amina",
+      "description": "Amina love you ",
+      "location": "Almaty",
+      "date": "15.11.2020",
+      "time": "asd",
+      "organizer": "Tair Aminalover"
+    },
+    {
+      "id": "30be2e8b-7ab6-4a53-bd6a-e1b523c3257a",
+      "category": "nature",
+      "title": "Amina",
+      "description": "I wanna fuck you",
+      "location": "Almaty",
+      "date": "12..03.2022",
+      "time": "ddd",
+      "organizer": "Tair Aminalover"
+    },
+    {
+      "id": "c1c43557-1210-49ac-b928-d6607c0d64fe",
+      "category": "sustainability",
+      "title": "Amina",
+      "description": "Sexiest woman",
+      "location": "Almaty",
+      "date": "asd",
+      "time": "asd",
+      "organizer": "Tair Aminalover"
+    }
+  ]
+}
